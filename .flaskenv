@@ -1,4 +1,3 @@
 FLASK_APP=twilio_verify.py
 FLASK_ENV=development
 FLASK_DEBUG=True
-START_NGROK=1
